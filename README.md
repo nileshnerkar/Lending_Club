@@ -8,6 +8,8 @@ The standard loan period is three years. Investors can search and browse the loa
 Investors make money from interest. Lending Club makes money by charging borrowers an origination fee and investors a service fee  
 
 ### Instructions: 
-* The Notebook folder has three files: The data file named "loan_data.csv" and the Jupyter notebook namely "Data Cleaning and Feature Engineering.ipynb" and "Data Model-Regression.ipynb"  
+* The Notebook folder has three files: The Jupyter notebook namely "Exploratory Data Analysis.ipynb", "Data Cleaning and Feature Engineering.ipynb" and "Data Model-Regression.ipynb"  
 * Download the folder and run the .ipynb files using Jupyter Notebook  
-* The LC Dictinary file gives a detailed explanations of the dataset columns  
+* The source file is too large, you can access it via below link:  
+ https://lending-club-loan-dataset.s3.amazonaws.com/dataset/loan.csv   
+ * The LC Dictinary file gives a detailed explanations of the dataset columns  
