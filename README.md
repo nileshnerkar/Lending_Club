@@ -1,4 +1,4 @@
-# Lending_Club
+# Lending_Club_Interest_Rate_Prediction
 
 
 ## About Lending Club:
